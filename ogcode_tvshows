@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Top 10 Series</title>
+        <style>
+            body {
+                background-color: darkblue;
+            }             
+            table {
+                margin-left: auto;
+                margin-right: auto;
+                background-color: darkgrey;
+            }
+            table, td {
+                border : 1px solid black; 
+            }
+            ul {
+                list-style-type: square;
+            }
+            h1 {
+                color: darkmagenta;
+                text-align: center;
+                background-color: azure;
+            }
+            h3 {
+                color: green;
+                text-align: center;
+                background-color: azure;
+            }
+            img {
+                max-width: 100%;
+                height: auto;
+        }
+        </style>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+		<h1>Top 10 Series</h1>
+		<h3>1. Absolutely Required: Bob's Burgers</h3>
+		<table>
+			<tr>
+				<td><img src="images/foxLogo.png"></td>
+				<td><img src="images/bobsburgers.png"></td>
+				<td><ul>
+						<li>Title: Bob's Burgers</li>
+						<li>Network: FOX</li>
+						<li>Seasons: Season 7 (Current) <a href="https://www.fox.com/bobs-burgers/">Watch on FOX</a></li>
+						<li>Why Watch? Short episodes, easy to binge-watch, great humor</li>
+					</ul></td>
+			</tr>
+		</table>
+		<h3>2. Required Viewing: Breaking Bad</h3>
+		<table>
+			<tr>
+				<td><img src="images/amc.png"></td>
+				<td><img src="images/breakingbad.png"></td>
+				<td><ul>
+						<li>Title: Breaking Bad</li>
+						<li>Network: AMC</li>
+						<li>Seasons: Season 5 (Ended) <a href="http://www.amc.com/shows/breaking-bad">Watch on AMC</a></li>
+						<li>Why Watch? Interesting characters, especially with an anti-hero main character</li>
+					</ul></td>
+
+			</tr>
+		</table>
+		<h3>3. Required Viewing: House</h3>
+		<table>
+			<tr>
+				<td><img src="images/foxLogo.png"></td>
+				<td><img src="images/house.png"></td>
+				<td><ul>
+						<li>Title: House</li>
+						<li>Network: FOX</li>
+						<li>Seasons: Season 8 (Ended) <a href="https://www.amazon.com/Pilot/dp/B000WCT7M8/ref=sr_1_1?s=instant-video&ie=UTF8&qid=1505144522&sr=1-1&keywords=house+md">Watch on Amazon Video</a></li>
+						<li>Why Watch? Dry humor, sarcasm, one-liners, and interesting medical cases</li>
+					</ul></td>
+			</tr>
+		</table>
+		<h3>4. Required Viewing: Bones</h3>
+		<table>
+			<tr>
+				<td><img src="images/foxLogo.png"></td>
+				<td><img src="images/bones.png"></td>
+				<td><ul>
+						<li>Title: Bones</li>
+						<li>Network: FOX</li>
+						<li>Seasons: Season 12 (Ended) <a href="https://www.netflix.com/title/70136123">Watch on Netflix</a></li>
+						<li>Why Watch? Unique take on a crime show, with science-based investigation</li>
+					</ul></td>
+			</tr>
+		</table>
+		<h3>5. Required Viewing: Buffy the Vampire Slayer</h3>
+		<table>
+			<tr>
+				<td><img src="images/wb.png"><img src="upn.png"></td>
+				<td><img src="images/buffy.jpg"></td>
+				<td><ul>
+						<li>Title: Buffy the Vampire Slayer</li>
+						<li>Network: The WB</li>
+						<li>Seasons: Season 7 (Ended) <a href="https://www.hulu.com/buffy-the-vampire-slayer">Watch on Hulu</a></li>
+						<li>Why Watch? Great characters and dry humor; quirky, enjoyable science fiction</li>
+					</ul></td>
+			</tr>
+		</table>
+		<h3>6. Required Viewing: The Office</h3>
+		<table>
+			<tr>
+				<td><img src="images/nbc.png"></td>
+				<td><img src="images/theoffice.png"></td>
+				<td><ul>
+						<li>Title: The Office</li>
+						<li>Network: NBC</li>
+						<li>Seasons: Season 9 (Ended) <a href="https://www.netflix.com/title/70136120">Watch on Netflix</a></li>
+						<li>Why Watch? Short episodes, easy to binge-watch, great humor</li>
+					</ul></td>
+			</tr>
+		</table>
+		<h3>7. Required Viewing: The Big Bang Theory</h3>
+		<table>
+			<tr>
+				<td><img src="images/cbs.png"></td>
+				<td><img src="images/bbt.png"></td>
+				<td><ul>
+						<li>Title: The Big Bang Theory</li>
+						<li>Network: CBS</li>
+						<li>Seasons: Season 11 (Current) <a href="http://www.cbs.com/shows/big_bang_theory/">Watch on NBC.com</a></li>
+						<li>Why Watch? Short episodes, easy to binge-watch, great humor</li>
+					</ul></td>
+			</tr>
+		</table>
+		<h3>8. Required Viewing: Parks and Recreation</h3>
+		<table>
+			<tr>
+				<td><img src="images/nbc.png"></td>
+				<td><img src="images/parksandrec.jpg"></td>
+				<td><ul>
+						<li>Title: Parks and Recreation</li>
+						<li>Network: NBC</li>
+						<li>Seasons: Season 7 (Ended) <a href="https://www.netflix.com/title/70143842">Watch on Netflix</a></li>
+						<li>Why Watch? Short episodes, easy to binge-watch, great humor</li>
+					</ul></td>
+			</tr>
+		</table>
+		<h3>9. Required Viewing: Stranger Things</h3>
+		<table>
+			<tr>
+				<td><img src="images/netflix.png"></td>
+				<td><img src="images/strangerthings.png"></td>
+				<td><ul>
+						<li>Title: Stranger Things</li>
+						<li>Network: Netflix</li>
+						<li>Seasons: Season 2 (Current) <a href=" https://www.netflix.com/title/80057281">Watch on Netflix</a></li>
+						<li>Why Watch? Unique plot, great cast, a must for modern science fiction</li>
+					</ul></td>
+			</tr>
+		</table>
+		<h3>10. Required Viewing: Supernatural</h3>
+		<table>
+			<tr>
+				<td><img src="images/cw.png"></td>
+				<td><img src="images/supernatural.png"></td>
+				<td><ul>
+						<li>Title: Supernatural</li>
+						<li>Network: The CW</li>
+						<li>Seasons: Season 12 (Current) <a href="https://www.netflix.com/title/70143825">Watch on Netflix</a></li>
+						<li>Why Watch? Interesting mythology, talented cast, sarcasm, and one-liners</li>
+					</ul></td>
+			</tr>
+		</table>
+		<p style="color: white"><i>Authorship <br> Kayla Chapin : 217 <br> Stephanie Smith : 130 <br> Gabbi Del Duca : 130</i></p>
+	</body>
+	<!-- Sources: https://www.fox.com/bobs-burgers/
+	              http://www.amc.com/shows/breaking-bad
+	              https://en.wikipedia.org/wiki/UPN
+	              http://logos.wikia.com/wiki/The_WB
+	              https://commons.wikimedia.org/wiki/File:Bones_2005_logo.svg
+	              http://logos.wikia.com/wiki/NBC
+	              http://logos.wikia.com/wiki/File:The_Office_NBC_logo.png
+	              https://commons.wikimedia.org/wiki/File:TBBT_logo.svg
+	              http://arrow.wikia.com/wiki/CBS
+	              http://logos.wikia.com/wiki/Parks_and_Recreation
+	              http://1000logos.net/netflix-logo/
+	              http://strangerthings.wikia.com/wiki/File:Stranger-Things-Logo.png
+	              https://en.wikipedia.org/wiki/The_CW 
+	              http://www.cwtv.com/shows/supernatural/ 
+	-->
+</html>
